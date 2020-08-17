@@ -1376,3 +1376,4 @@ for i in range(1,inputWorksheet.ncols):
 
 
 print(Autores)
+print(Autores)
